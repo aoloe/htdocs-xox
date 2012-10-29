@@ -12,3 +12,5 @@ way to do a git commit / push with pure PHP (and I don't have access to other la
 ## Ressources:
 
 - have a look at http://davidwalsh.name/github-markdown
+- http://stackoverflow.com/questions/11061306/github-api-v3-acquiring-access-token-through-curl
+- http://blog.vjeux.com/2012/javascript/github-oauth-login-browser-side.html
