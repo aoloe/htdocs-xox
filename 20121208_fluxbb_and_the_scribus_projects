@@ -34,7 +34,7 @@ an alternative way of handling this:
 - create a web interface that shows the list of the projects and shows its details.
 - create/find a comments system that can be linked to each project
   - comments without being registered
-  - filter by ip, eventually with captcha
+  - filter by ip, eventually with captcha or aksimet (http://ratherodd.com/commentator/)
   - only text + links (images linked are automatically shown?)
   - comments are moderated with an email notification
   - accept / remove a comment through link in email
