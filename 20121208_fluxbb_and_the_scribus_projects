@@ -26,3 +26,17 @@ some of the features are:
 voilà... i think that are about my need that are not (well) covered by fluxbb...
 so the question: where i can discuss about it? is there any chance to work with you to get them in?
 (ah, something else: i need a way to manage the install of fluxbb as i have it... manually applying patches is probably a bad way to work, since it's too hard to keep the code up to date)
+
+an alternative way of handling this:
+- create a git(hub) repository with the list of the projects descriptions. one file per project.
+  - markdown or html
+  - upload images and attachments in the git repository
+- create a web interface that shows the list of the projects and shows its details.
+- create/find a comments system that can be linked to each project
+  - comments without being registered
+  - filter by ip, eventually with captcha
+  - only text + links (images linked are automatically shown?)
+  - comments are moderated with an email notification
+  - accept / remove a comment through link in email
+  - comments can be hidden (when they have been integrated into the project description)
+  - there are users (no moderation) and editors / administrators (moderation / delete / hide).
