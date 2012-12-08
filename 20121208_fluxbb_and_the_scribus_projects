@@ -1,0 +1,28 @@
+i'm working on a project where i'm using fluxbb as a base...
+
+... what i'm creating is not a forum, but i can't find any type of software better suited than a forum.
+
+the idea is to create a platform where several people can work together on specifications, while getting feedback from the community.
+the feedback probably being the most important part.
+
+currently, i've chosen fluxbb as a base, because it's the only forum i've found that does not look like a circus...
+... and somehow meets many of the needs i have.
+
+the project is currently here
+http://graphicslab.org/scribus/project/
+it's not public yet, but you can see in what direction it's heading.
+
+now. there are some key features that i need and i wonder if it makes sense to work with you and get them integrated into fluxbb or if it's better if i start my own project.
+
+some of the features are:
+- rich text (editor) for the topic. most of all i need to be able to attach images to it and show them in the frame. bb code does not work, it should be wysiwyg
+- attach files to the topic
+- hiding (not deleting) the comments that have been integrated into the topic
+- attaching tags to the topics (and letting the people look for tags)
+- moderate comments (only shown once accepted)
+- custom main page.
+- in the list of the topics it should be possible to add a description of each topic
+
+voilà... i think that are about my need that are not (well) covered by fluxbb...
+so the question: where i can discuss about it? is there any chance to work with you to get them in?
+(ah, something else: i need a way to manage the install of fluxbb as i have it... manually applying patches is probably a bad way to work, since it's too hard to keep the code up to date)
